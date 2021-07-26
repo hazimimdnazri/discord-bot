@@ -67,4 +67,4 @@ async def on_message(message):
         else: 
             await message.channel.send('Aku tak faham lah kau cakap apa.')
     
-client.run('ODQ4MTQ2MjIwODY5NDg0NTQ0.YLIXuA.hN6BKqFKcRu_ZWfTUI3oMy54BIA')
+client.run('')
